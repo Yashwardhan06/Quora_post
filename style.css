@@ -1,0 +1,15 @@
+h1{
+    color: maroon;
+}
+.post{
+  background-color: burlywood;  
+}
+.user{
+    font-style: italic;
+}
+button:hover{
+  background-color:rgb(153, 229, 157) ;
+}
+#btn{
+  background-color: rgb(123, 209, 219);
+}
